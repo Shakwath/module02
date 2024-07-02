@@ -1,0 +1,36 @@
+.hed{
+    color: rgb(17, 127, 0);
+}
+#hn{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+}
+.main{
+    height:500px;
+    text-align: right;
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    color: white;
+    font-size: xx-large;
+    background-size: 1500px;
+    padding-top: 140px;
+    padding-left: 700px;
+    font-weight: bolder;
+
+}
+.hdline{
+    color:darkslategrey;
+}
+button{
+    border-radius: 5px;
+}
+*{
+    margin:10px;
+    border-radius: 7px;
+}
+
+#up{
+    background-color: black;
+    background-size: 40px;
+    text-align: right;
+}
