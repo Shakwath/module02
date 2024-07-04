@@ -16,6 +16,7 @@
     padding-top: 140px;
     padding-left: 700px;
     font-weight: bolder;
+    margin-bottom: -50px;
 
 }
 .hdline{
@@ -45,4 +46,21 @@ input{
     padding:5px;
     border-inline-start-width: 05px;
     border-block-color: 10px;
+}
+.blog{
+    display: flex;
+    gap: 10px;
+    flex-direction: -10px;
+    margin:10px;
+}
+figcaption{
+    margin-top: -10px;
+    font-size: small;
+}
+.t{
+    text-align: justify;
+}
+.img{
+    height: 200px;
+    width: 300px;
 }
